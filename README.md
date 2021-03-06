@@ -1,16 +1,5 @@
-# gtbankapp
+This is a redesign of the GTBANK APPLICATION User Interface with Flutter. With Inspiration gotten from this tweet https://twitter.com/TassyOmah_/status/1339818008664035329. Find below Screenschots of the progress so far
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](https://github.com/eyitayojason/GtBank-Clone-App/blob/main/Screenshot_2021-03-07-02-38-28.png?raw=true)
+![alt text](https://github.com/eyitayojason/GtBank-Clone-App/blob/main/Screenshot_2021-03-07-02-38-49.png?raw=true)
+![alt text](https://github.com/eyitayojason/GtBank-Clone-App/blob/main/Screenshot_2021-03-07-02-39-06.pngraw=true)
